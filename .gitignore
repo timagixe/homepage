@@ -1,4 +1,4 @@
-.DS_Store
+.now
 
 sw.js.map
 
@@ -6,4 +6,4 @@ workbox-8b4b545e.js
 
 workbox-8b4b545e.js.map
 
-.now
+.DS_Store
