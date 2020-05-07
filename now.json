@@ -1,3 +1,7 @@
 {
-    "name": "homepage-now"
+    "name": "homepage-now",
+    "alias": ["homepage-now.timagixe.now.sh"],
+    "github": {
+        "autoAlias": false
+    }
 }
