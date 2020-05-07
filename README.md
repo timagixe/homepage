@@ -1,7 +1,7 @@
 # Homepage
 My very own personal website. Basically this is just a résumé.
 
-* Zeit Now: https://homepage-its7adfcs.now.sh/
+* Zeit Now: https://homepage-dz09g9vg7.now.sh/
 * GH-Pages: https://timagixe.github.io/homepage/
 
 Preview:
