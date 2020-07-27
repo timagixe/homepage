@@ -9,4 +9,4 @@ My very own personal website. Basically this is just a résumé.
 
 Preview:
 
-![Preview image](https://i.imgur.com/wbWATra.png)
+![Preview image](./a.jpg)
